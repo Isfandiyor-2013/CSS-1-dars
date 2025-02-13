@@ -1,0 +1,21 @@
+p{
+    color: green;
+    background-color: rgba(255, 255, 0, 0);
+    font-size: 20p;
+}
+.text{
+color: rgb(242, 255, 0);
+background-color: green;
+font-size: 20px;
+
+}
+.font{
+    font-size: 30px;
+}
+#bg{
+    background-color: black;
+}
+#ba{
+    background-color: black;
+    color: white;
+}
